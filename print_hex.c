@@ -6,8 +6,7 @@
  * @c: flag to determine case of printing (0 = lower, 1 = upper)
  *
  * Return: number of digits printed
- *
- *       */
+ */
 int print_hex(unsigned int n, unsigned int c)
 {
 unsigned int a[8];
